@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.pan.file.utils.FileProperties",
+      "name": "file",
+      "type": "com.pan.file.utils.FileProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.pan.file.utils.FileProperties",
+      "name": "file.file-type",
+      "type": "java.lang.String"
+    }
+  ]
+}
